@@ -1,4 +1,4 @@
-# Rippl Full-Stack 60-Minute Exercise - SOLUTION
+# Rippl Full-Stack 60-Minute Exercise
 
 **A hands-on coding challenge for Rippl engineering candidates. Build, test, and extend a simple scheduling app using Flask and React.**
 
